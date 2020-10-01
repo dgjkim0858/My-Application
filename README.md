@@ -8,3 +8,7 @@
 <b>행운의 추첨 (lot.aia) 애플리케이션</b><br>
 플레이 스토어: https://play.google.com/store/apps/details?id=appinventor.ai_dgjkim0858.lot<br>
 설명: 번호와 이름을 랜덤하게 추첨하는 애플리케이션으로 앱 인벤터를 이용해서 제작했다.<br>
+
+<b>사칙연산 공부방 (arithmetic.aia) 애플리케이션</b><br>
+플레이 스토어: https://play.google.com/store/apps/details?id=appinventor.ai_dgjkim0858.arithmetic<br>
+설명: 연산 종류와 레벨을 선택할 수 있는 사칙연산을 공부하는 애플리케이션으로 앱 인벤터를 이용해서 제작했다.<br>
